@@ -5,7 +5,6 @@
   👩‍💻 Front-End Developer Student from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
 </p>
 
-##
 
 <div>
   <a href="https://github.com/EricaSerpa">
