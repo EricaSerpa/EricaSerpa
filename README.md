@@ -34,6 +34,3 @@
   
   
  ![Snake animation](https://github.com/EricaSerpa/EricaSerpa/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
