@@ -33,7 +33,7 @@
   ![visitors](https://page-views.glitch.me/badge?page_id=EricaSerpa)
   
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/EricaSerpa/EricaSerpa/blob/output/github-contribution-grid-snake.svg)
   
   
   
