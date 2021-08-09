@@ -7,7 +7,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/EricaSerpa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricaSerpa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSerpa&layout=compact&langs_count=16&theme=dark"/>
@@ -32,9 +32,8 @@
   
   ![visitors](https://page-views.glitch.me/badge?page_id=EricaSerpa)
   
-  ##
   
-   ![Snake animation](https://github.com/EricaSerpa/EricaSerpa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   
   
