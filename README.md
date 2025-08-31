@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  👩‍💻 Front-End Developer Student from <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
+  👩‍💻 Atualmente trabalho como Analista de Sistemas.                             🚀 Apaixonada por resolver problemas com tecnologia, criar soluções eficientes e aprender continuamente.
+  🎓 Formada pelo bootcamp da <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
 </p>
 
 <div align="center">
