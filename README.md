@@ -2,18 +2,28 @@
 
 
 <p align="center">
-  👩‍💻 Atualmente trabalho como Analista de Sistemas.                             🚀 Apaixonada por resolver problemas com tecnologia, criar soluções eficientes e aprender continuamente.
-  🎓 Formada pelo bootcamp da <a href="https://www.laboratoria.la/"> Laboratoria </a> <br>
+👩‍💻 Atualmente trabalho como Analista de Sistemas.
+  
+ 🚀 Apaixonada por resolver problemas com tecnologia, criar soluções eficientes e aprender continuamente.
+  
+  🎓 Formada pelo bootcamp da <a href="https://www.laboratoria.la/"> Laboratoria </a> (SAP006), onde desenvolvi projetos praticos com foco em JavaScript, HTML, CSS e metodologias ágeis. <br>
 </p>
+
+##
+
+</div>
 
 <div align="center">
   <a href="https://github.com/EricaSerpa">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=EricaSerpa&layout=compact&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,420000,120042&theme=dark">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSerpa&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
-</div>
-  
-  <hr/>
 
+  ##
+
+</div>
+
+⚒️ Tecnologias e Ferramentas
+             
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,10 +35,17 @@
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
+
+<p align="center">
+
+  
+📚 Tenho estudado Java, Cloud e iniciei a Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
+</p>
   
   ##
+
+<div align="center">
  
-<div align="center"> 
   <a href="https://www.linkedin.com/in/ericaserpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ericagserpa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/EricaSerpa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -36,7 +53,6 @@
  
   ##
   
-  ![visitors](https://page-views.glitch.me/badge?page_id=EricaSerpa)
   
   <div/>
   
