@@ -4,7 +4,7 @@
 <p align="center">
 👩‍💻 Atualmente trabalho como Analista de Sistemas.
   
- 🚀 Apaixonada por resolver problemas com tecnologia, criar soluções eficientes e aprender continuamente.
+ 🚀 Apaixonada por resolver problemas, criar soluções eficientes e aprender continuamente.
   
   🎓 Formada pelo bootcamp da <a href="https://www.laboratoria.la/"> Laboratoria </a> (SAP006), onde desenvolvi projetos praticos com foco em JavaScript, HTML, CSS e metodologias ágeis. <br>
 </p>
